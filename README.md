@@ -1,1 +1,1 @@
-# BQP
+# Binary Quadratic Programming
